@@ -1,0 +1,4 @@
+Kafka:
+  bootstrapAddress: localhost:29092
+  topics:
+    product: names
