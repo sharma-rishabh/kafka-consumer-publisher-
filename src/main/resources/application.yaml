@@ -1,4 +1,4 @@
-Kafka:
+kafka:
   bootstrapAddress: localhost:29092
-  topics:
-    product: names
+  topic:
+    name: AUTO_PRICES
